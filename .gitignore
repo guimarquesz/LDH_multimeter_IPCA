@@ -1,0 +1,15 @@
+﻿# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# VS Code
+.vscode/
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
+
+# Ficheiros temporários
+*.log
+*.tmp
